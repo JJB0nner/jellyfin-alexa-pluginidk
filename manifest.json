@@ -6,6 +6,6 @@
         "description": "Use your Alexa devices to control and play your media.",
         "owner": "infinityofspace",
         "overview": "Alexa skill plugin for Jellyfin",
-        "versions": []
+        "versions": ["10.11.6"]
     }
 ]
